@@ -1,0 +1,16 @@
+# Node and build artifacts
+node_modules/
+dist/
+.cache/
+
+# Environment and secret files
+.env
+.env.*
+
+# Local data stores (do not publish PII)
+server/data/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
