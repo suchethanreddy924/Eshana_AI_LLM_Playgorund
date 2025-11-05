@@ -1,7 +1,5 @@
 # Eshana.AI — LLM Playground
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) · See [LICENSE](LICENSE)
-
 A secure, local playground for experimenting with multiple LLM providers via a React (Vite) frontend and a Node/Express backend. Designed to be safe for open-source: environment files are ignored, and example/config guidance is provided so secrets are never committed.
 
 ## Overview
@@ -87,7 +85,7 @@ Notes:
 - On Windows, CRLF line ending warnings are harmless; Git normalizes line endings.
 
 ## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+MIT License — see LICENSE file for details.
 
 ## Contributing
 Issues and PRs are welcome. Please avoid committing any secrets, refresh tokens, or private user data. Use `.env.example` patterns for configuration.
