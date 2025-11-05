@@ -143,4 +143,4 @@ npm run dev
 - Current auth implementation is dev-only (plaintext). For public release: hash passwords, use JWT, enable `helmet`, tighten `cors`, and add rate limiting.
 
 ## License
-- Add a license file before publishing if you intend to open source.
+MIT License — see LICENSE file for details.
