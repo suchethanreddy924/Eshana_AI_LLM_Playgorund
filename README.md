@@ -52,7 +52,7 @@ Notes:
 
 ## Folder Structure
 ```
-e:\my-test-llmplayground
+.
 ├── public/               # Static assets
 ├── src/                  # React app
 │   ├── components/       # UI components
