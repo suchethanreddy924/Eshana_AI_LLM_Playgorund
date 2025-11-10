@@ -2,6 +2,10 @@
 
 <img width="1265" height="912" alt="image" src="https://github.com/user-attachments/assets/e5c6d966-a83d-43ff-b79d-5c52d856cbfd" />
 
+<img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/b2e65dcd-b23e-40d8-8a8e-6932b478faa0" />
+
+
+
 
 
 A secure, local playground for experimenting with multiple LLM providers via a React (Vite) frontend and a Node/Express backend. Designed to be safe for open-source: environment files are ignored, and example/config guidance is provided so secrets are never committed.
