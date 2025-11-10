@@ -1,8 +1,9 @@
 # Eshana.AI — LLM Playground
 
-<img width="558" height="440" alt="image" src="https://github.com/user-attachments/assets/f56b7db1-7741-4653-b207-389e2cf1fa6a" />
+<img width="558" height="440" alt="image" src="https://github.com/user-attachments/assets/976a9c96-88a7-44ec-9be9-e0b414547256" /> <img width="683" height="373" alt="image" src="https://github.com/user-attachments/assets/9e2f89ff-d74a-48e6-86c3-3112f2ab0467" />
 
-<img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/b2e65dcd-b23e-40d8-8a8e-6932b478faa0" />
+
+
 
 
 
