@@ -1,5 +1,8 @@
 # Eshana.AI — LLM Playground
 
+<img width="1895" height="977" alt="image" src="https://github.com/user-attachments/assets/5bd317e8-fdf3-4383-8fe9-850132405fdc" />
+
+
 A secure, local playground for experimenting with multiple LLM providers via a React (Vite) frontend and a Node/Express backend. Designed to be safe for open-source: environment files are ignored, and example/config guidance is provided so secrets are never committed.
 
 ## Overview
