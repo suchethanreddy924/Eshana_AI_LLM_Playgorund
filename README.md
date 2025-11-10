@@ -1,6 +1,7 @@
 # Eshana.AI — LLM Playground
 
 <img width="1265" height="912" alt="image" src="https://github.com/user-attachments/assets/e5c6d966-a83d-43ff-b79d-5c52d856cbfd" />
+<img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/b2e65dcd-b23e-40d8-8a8e-6932b478faa0" />
 
 
 
@@ -149,4 +150,3 @@ npm run dev
 
 ## License
 MIT License — see LICENSE file for details.
- <img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/b2e65dcd-b23e-40d8-8a8e-6932b478faa0" />
