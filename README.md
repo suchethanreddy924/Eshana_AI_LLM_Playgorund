@@ -146,7 +146,7 @@ npm run dev
 - `.gitignore` excludes `.env` and `server/data/` to avoid leaking secrets or PII.
 - Current auth implementation is dev-only (plaintext). For public release: hash passwords, use JWT, enable `helmet`, tighten `cors`, and add rate limiting.
 
- <img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/b2e65dcd-b23e-40d8-8a8e-6932b478faa0" />
 
 ## License
 MIT License — see LICENSE file for details.
+ <img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/b2e65dcd-b23e-40d8-8a8e-6932b478faa0" />
